@@ -10,13 +10,7 @@ setup(
     author_email="ishan.kodithuwakku.offical@gmail.com",
     url="https://github.com/ishanoshada/light-speed",
     packages=find_packages(),
-    classifiers=[
-        "Programming Language :: Python :: 3",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-        "Intended Audience :: Science/Research",
-        "Topic :: Scientific/Engineering :: Physics",
-    ]
+    
     install_requires=[
         "numpy",
     ],
@@ -25,4 +19,11 @@ setup(
         "Bug Tracker": "https://github.com/ishanoshada/light-speed/issues",
         "Source Code": "https://github.com/ishanoshada/light-speed",
     },
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+        "Intended Audience :: Science/Research",
+        "Topic :: Scientific/Engineering :: Physics",
+    ]
 )
