@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Ishan Oshada",
     author_email="ishan.kodithuwakku.offical@gmail.com",
-    url="https://github.com/ishanoshada/light_speed",
+    url="https://github.com/ishanoshada/light-speed",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
@@ -22,7 +22,7 @@ setup(
     ],
     keywords="relativity physics light-speed optics",
     project_urls={
-        "Bug Tracker": "https://github.com/ishanoshada/light_speed/issues",
-        "Source Code": "https://github.com/ishanoshada/light_speed",
+        "Bug Tracker": "https://github.com/ishanoshada/light-speed/issues",
+        "Source Code": "https://github.com/ishanoshada/light-speed",
     },
 )
