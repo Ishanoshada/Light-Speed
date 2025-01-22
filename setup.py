@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="light_speed",
-    version="0.1.2",
+    version="0.1.3",
     description="A comprehensive physics package for light speed and real-world calculations",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
